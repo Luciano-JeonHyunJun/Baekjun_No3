@@ -247,7 +247,7 @@ for i in c:
 This is a commit that solves the problem of the Baekjun online problem solving site. This commit may have an incorrect solution.
 If you have any incorrect information, please give feedback to jhj091542@gmail.com.
 
-<Please note that all translations have been made using Google Translator.
+<h6>Please note that all translations have been made using Google Translator.</h6>
 
 <h1>Multiplication table 2739</h1>
 After receiving N, write a program that outputs the multiplication table N. Just print it according to the output format.
